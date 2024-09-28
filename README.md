@@ -1,4 +1,6 @@
 ### EX6 Information Retrieval Using Vector Space Model in Python
+### NAME: DEEPIKA S
+### REGISTER NUMBER: 212222230028
 ### DATE: 28/09/2024
 ### AIM: To implement Information Retrieval Using Vector Space Model in Python.
 ### Description: 
